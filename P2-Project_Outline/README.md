@@ -7,12 +7,34 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+GetSauced is an app that allows users to describe and rate their favorite hot sauces. But because users will have different "tolerances" for spiciness, this app contains a function that can predict how a user might rate the heat of a sauce they search.
+
 ### Features
-Include Features here
+
+* User Login: Users will be able to create an account to track their selections and posts.
+* Searchable Blog Posts: Users will be able to search for an index of sauces and compare their comments with other users.
+* Manage Blog Posts: Users will be able to create, edit, remove posts.
+* Rating Systems: Users will be able to use to rating systems. One for taste (how much a person enjoys a particular sauce). And a second rating to measure a user's perspective of the spiciness of the sauce.
+* Comparative Rating: A suggested rating that will predict what a user might rate a hot sauce that they have not tried.
+
 ### Technologies
-Include Technologies here
+
+Written with IntelliJ
+* JavaScrypt
+* MySQL
+* Html
+* BootStrap
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+In the course of this project I will focus more on honing skills in the fields and programming languages worked on during the LaunchCode Program.
+
+In the backend, I am excited to figure out the way to compare and predict information for a Comparative Rating system.
+
+In addition to the backend, I am excited to work on front-end design. I've felt that in these months I have been so focused on back end and put front end design on the "back burner". 
+
 ### Project Tracker
-Link to your Trello board here
+
+Trello Link:
+https://trello.com/b/GCSlC4fh/getsaucedapplication
